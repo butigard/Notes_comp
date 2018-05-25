@@ -1,0 +1,16 @@
+QLabel {
+    color: "black";
+    font-size: 12px;
+}
+
+QLabel#title {
+    color: "blue";
+    font-family: "Helvetica";
+    font-size: 20px;
+    height: 50px;
+}
+
+QlineEdit {
+    width:200px;
+    background-color: "white";
+}
